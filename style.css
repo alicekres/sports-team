@@ -12,10 +12,7 @@ td {
 li {
   display: inline-block;
   padding: 20px;
-}
-
-nav {
-  text-align: left;
+  align-items: left;
 }
 
 header {
@@ -32,4 +29,9 @@ footer {
 
 footer a {
   display: block;
+}
+
+nav a {
+  font-weight: bold;
+  display: inline-block;
 }
